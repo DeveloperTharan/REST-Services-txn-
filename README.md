@@ -30,7 +30,6 @@ Before running the application, ensure you have the following dependencies insta
 
 ```bash
     {
-      "txnId": "74001755",
       "customerName": "John",
       "service": "UPI",
       "amount": 3548,
