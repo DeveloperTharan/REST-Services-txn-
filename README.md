@@ -9,6 +9,7 @@ Before running the application, ensure you have the following dependencies insta
 
  - Java 17 or later
  - Maven (for building the project)
+ - Spring Web, Spring Data JPA, Lombok
  - H2 Database (embedded database for testing)
 
 ### Getting Started
